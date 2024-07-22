@@ -33,8 +33,6 @@ body {
 	margin: 0;
 }
 
-/*
- * Site Header */
 .site-header {
 	position: sticky;
 }
@@ -66,8 +64,6 @@ body {
 	color: #444;
 }
 
-/*
- * Site Footer */
 .site-footer .wrapper {
 	padding-bottom: 3rem;
 	padding-top: 2rem;
@@ -133,8 +129,6 @@ body {
 	text-align: center;
 }
 
-/*
- * Section header */
 .site > section header {
 	flex: 1 0 100%;
 	text-align: center;
@@ -153,9 +147,6 @@ body {
 	background: #000;
 	margin: 1.5rem auto;
 }
-
-/*
- * Call to Action */
 
 section.call-to-action {
 }
@@ -191,8 +182,7 @@ section.call-to-action i.fas {
 	}
 }
 
-/*
- * Testimonials */
+
 section.testimonials {
 	color: #333;
 	background-color: #ffffff;
@@ -204,8 +194,6 @@ section.testimonials .wrapper {
 	padding: 3rem 2rem 5rem 2rem;
 }
 
-/*
- * Newsletter */
 
 section.newsletter {
 	background-color: #68347b;

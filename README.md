@@ -1,2 +1,3 @@
 # html-css-styles-part3
-HTML/CSS for creating and styling different web page layouts
+### This is a project for Front-End Technologies May 2024 Course @ SoftUni
+

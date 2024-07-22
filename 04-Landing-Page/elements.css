@@ -1,7 +1,4 @@
-/*
- * list-people */
-
- section .list-people {
+section .list-people {
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;

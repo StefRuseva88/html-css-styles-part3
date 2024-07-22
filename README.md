@@ -19,3 +19,6 @@
 12. [Tag Cardio: Fieldset Legend](#12-tag-cardio-fieldset-legend)
 13. [Tag Cardio: Select Option](#13-tag-cardio-select-option)
 14. [Tag Cardio: Datalist](#14-tag-cardio-datalist)
+15. [Contributing](#Contributing)
+16. [License](#License)
+17. [Contact](#Contact)

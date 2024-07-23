@@ -48,22 +48,22 @@ Create a web page using the form tag.
 Design a web page using the input tag with type "text" within a form.
 
 ## 9. Tag Cardio: Textarea
-Create a web page using the textarea tag, including text from a provided file.
+Create a web page using the textarea tag.
 
 ## 10. Tag Cardio: Label
-Build a web page using the label tag, incorporating text from a provided file.
+Build a web page using the label tag.
 
 ## 11. Tag Cardio: Button
-Create a web page using the button tag with provided text.
+Create a web page using the button tag.
 
 ## 12. Tag Cardio: Fieldset Legend
-Design a web page using the fieldset tag with legend, including provided text.
+Design a web page using the fieldset tag with legend.
 
 ## 13. Tag Cardio: Select Option
-Create a web page using select and option tags, using provided text.
+Create a web page using select and option tags.
 
 ## 14. Tag Cardio: Datalist
-Build a web page using the datalist tag within a form, including provided text.
+Build a web page using the datalist tag within a form.
 
 ## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.

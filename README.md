@@ -25,46 +25,46 @@
 17. [Contact](#Contact)
 
 ## Media Queries in Typography
-Adjust font sizes for different screen sizes using media queries.
+Adjusts font sizes for different screen sizes using media queries.
 
 ## Responsive Forms
-Create a responsive login form with FontAwesome icons and focus state styles.
+Creates a responsive login form with FontAwesome icons and focus state styles.
 
 ## Responsive Media Boxes
-Design a responsive section with media boxes, utilizing specific colors and fonts.
+Designs a responsive section with media boxes, utilizing specific colors and fonts.
 
 ## Landing Page
-Create a multi-section landing page that is fully responsive.
+Creates a multi-section landing page that is fully responsive.
 
 ## Responsive Tables
-Design a responsive table with specified columns and include reset and typography styles.
+Designs a responsive table with specified columns and includes reset and typography styles.
 
 ## Responsive Vertical Timeline
-Build a vertical timeline with responsive design and styled articles.
+Builds a vertical timeline with responsive design and styled articles.
 
 ## Tag Cardio: Form
-Create a web page using the form tag.
+Creates a web page using the form tag.
 
 ## Tag Cardio: Input
-Design a web page using the input tag with type "text" within a form.
+Designs a web page using the input tag with type "text" within a form.
 
 ## Tag Cardio: Textarea
-Create a web page using the textarea tag.
+Creates a web page using the ``textarea`` tag.
 
 ## Tag Cardio: Label
-Build a web page using the label tag.
+Builds a web page using the ``label`` tag.
 
 ## Tag Cardio: Button
-Create a web page using the button tag.
+Creates a web page using the ``button`` tag.
 
 ## Tag Cardio: Fieldset Legend
-Design a web page using the fieldset tag with legend.
+Designs a web page using the ``fieldset`` tag with legend.
 
 ## Tag Cardio: Select Option
-Create a web page using select and option tags.
+Creates a web page using ``select`` and ``option`` tags.
 
 ##  Tag Cardio: Datalist
-Build a web page using the datalist tag within a form.
+Builds a web page using the ``datalist`` tag within a form.
 
 ## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.

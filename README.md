@@ -43,10 +43,10 @@ Designs a responsive table with specified columns and includes reset and typogra
 Builds a vertical timeline with responsive design and styled articles.
 
 ## Tag Cardio: Form
-Creates a web page using the form tag.
+Creates a web page using the ``form`` tag.
 
 ## Tag Cardio: Input
-Designs a web page using the input tag with type "text" within a form.
+Designs a web page using the ``input`` tag with type "text" within a form.
 
 ## Tag Cardio: Textarea
 Creates a web page using the ``textarea`` tag.

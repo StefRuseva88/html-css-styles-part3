@@ -24,46 +24,46 @@
 16. [License](#License)
 17. [Contact](#Contact)
 
-## 1. Media Queries in Typography
+## Media Queries in Typography
 Adjust font sizes for different screen sizes using media queries.
 
-## 2. Responsive Forms
+## Responsive Forms
 Create a responsive login form with FontAwesome icons and focus state styles.
 
-## 3. Responsive Media Boxes
+## Responsive Media Boxes
 Design a responsive section with media boxes, utilizing specific colors and fonts.
 
-## 4. Landing Page
+## Landing Page
 Create a multi-section landing page that is fully responsive.
 
-## 5. Responsive Tables
+## Responsive Tables
 Design a responsive table with specified columns and include reset and typography styles.
 
-## 6. Responsive Vertical Timeline
+## Responsive Vertical Timeline
 Build a vertical timeline with responsive design and styled articles.
 
-## 7. Tag Cardio: Form
+## Tag Cardio: Form
 Create a web page using the form tag.
 
-## 8. Tag Cardio: Input
+## Tag Cardio: Input
 Design a web page using the input tag with type "text" within a form.
 
-## 9. Tag Cardio: Textarea
+## Tag Cardio: Textarea
 Create a web page using the textarea tag.
 
-## 10. Tag Cardio: Label
+## Tag Cardio: Label
 Build a web page using the label tag.
 
-## 11. Tag Cardio: Button
+## Tag Cardio: Button
 Create a web page using the button tag.
 
-## 12. Tag Cardio: Fieldset Legend
+## Tag Cardio: Fieldset Legend
 Design a web page using the fieldset tag with legend.
 
-## 13. Tag Cardio: Select Option
+## Tag Cardio: Select Option
 Create a web page using select and option tags.
 
-## 14. Tag Cardio: Datalist
+##  Tag Cardio: Datalist
 Build a web page using the datalist tag within a form.
 
 ## Contributing

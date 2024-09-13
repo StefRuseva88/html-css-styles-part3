@@ -25,7 +25,7 @@
 17. [Contact](#Contact)
 
 ## Media Queries in Typography
-Adjusts font sizes for different screen sizes using media queries.
+Enhance user experience by adjusting font sizes based on screen dimensions, ensuring readability across devices.
 
 ## Responsive Forms
 Creates a responsive login form with FontAwesome icons and focus state styles.

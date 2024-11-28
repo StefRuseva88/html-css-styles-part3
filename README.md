@@ -20,9 +20,8 @@
 12. [Tag Cardio: Fieldset Legend](#tag-cardio-fieldset-legend)
 13. [Tag Cardio: Select Option](#tag-cardio-select-option)
 14. [Tag Cardio: Datalist](#tag-cardio-datalist)
-15. [Contributing](#Contributing)
-16. [License](#License)
-17. [Contact](#Contact)
+15. [License](#License)
+16. [Contact](#Contact)
 
 ## Media Queries in Typography
 Enhance user experience by adjusting font sizes based on screen dimensions, ensuring readability across devices.
@@ -65,9 +64,6 @@ Creates a web page using ``select`` and ``option`` tags.
 
 ##  Tag Cardio: Datalist
 Builds a web page using the ``datalist`` tag within a form.
-
-## Contributing
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
